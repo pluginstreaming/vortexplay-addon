@@ -45,6 +45,17 @@
       "description": "Servidor adicional com boa performance",
       "location": "BR",
       "priority": 4
+    },
+     {
+      "id": 5,
+      "name": "Peercast",
+      "dns": "http://peercast.sbs:80",
+      "username": "3259088",
+      "password": "5268547",
+      "status": "online",
+      "description": "Servidor adicional com boa performance",
+      "location": "BR",
+      "priority": 5
     }
   ],
   "settings": {
