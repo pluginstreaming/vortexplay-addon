@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "release_date": "2025-01-07",
   "changelog": [
     {
-      "version": "1.0.0",
+      "version": "1.0.1",
       "date": "2025-01-07",
       "changes": [
         "Versão inicial com 4 servidores",
