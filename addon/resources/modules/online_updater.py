@@ -10,7 +10,7 @@ from . import control
 class OnlineUpdater:
     def __init__(self):
         self.addon = xbmcaddon.Addon()
-        self.github_base = "https://raw.githubusercontent.com/SEU_USUARIO/vortexplay-addon/main/config/"
+        self.github_base = "https://raw.githubusercontent.com/pluginstreaming/vortexplay-addon/main/config/"
         self.servers_url = self.github_base + "servers.json"
         self.version_url = self.github_base + "version.json"
         
