@@ -1,0 +1,24 @@
+<settings>
+<category label="GENERAL">
+		<setting id="server_option" type="select" label="SERVIDOR" values="Servidor 1|Servidor 2|Servidor 3|Servidor 4" default="Servidor 1"/>
+		<setting id="auto_update_enabled" type="bool" label="ATUALIZAÇÃO AUTOMÁTICA" default="true"/>
+		<setting id="last_update_check" type="text" label="ÚLTIMA VERIFICAÇÃO" visible="false" default="0"/>
+		<setting id="DNS" type="text" label="DNS SERVIDOR 1" default="http://ragnatech.space"/>
+		<setting id="Username" type="text" label="USERNAME SERVIDOR 1" default="296828356"/>
+		<setting id="Password" type="text" label="PASSWORD SERVIDOR 1" default="506160917"/>
+		<setting id="DNS2" type="text" label="DNS SERVIDOR 2" default="http://chanelvs.click:80"/>
+		<setting id="Username2" type="text" label="USERNAME SERVIDOR 2" default="6042289"/>
+		<setting id="Password2" type="text" label="PASSWORD SERVIDOR 2" default="d189Q3172C"/>
+		<setting id="DNS3" type="text" label="DNS SERVIDOR 3" default="http://newoneblack.site"/>
+		<setting id="Username3" type="text" label="USERNAME SERVIDOR 3" default="111111"/>
+		<setting id="Password3" type="text" label="PASSWORD SERVIDOR 3" default="111111"/>
+		<setting id="DNS4" type="text" label="DNS SERVIDOR 4" default="http://oneneweasy.site"/>
+		<setting id="Username4" type="text" label="USERNAME SERVIDOR 4" default="ven3w3rvkx"/>
+		<setting id="Password4" type="text" label="PASSWORD SERVIDOR 4" default="123456"/>
+		<setting id="meta" type="bool" label="VOD META" visible="false" default="false"/>
+		<setting id="hidexxx" type="bool" label="SHOW ADULT" visible="false" default="false"/>
+		<setting id="xxx_pwset" type="bool" label="PASSWORD LOCK ADULT CONTENT" default="false"/>
+		<setting id="xxx_pw" option = 'hidden' type="text" label="ADULT CONTENT PASSWORD (DEFAULT: 1234)" default="1234"/>
+</category>
+</settings>
+

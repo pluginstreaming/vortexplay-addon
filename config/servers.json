@@ -1,0 +1,67 @@
+{
+  "last_updated": "2025-01-07T10:00:00Z",
+  "version": "1.0.0",
+  "servers": [
+    {
+      "id": 1,
+      "name": "Ragnatech",
+      "dns": "http://ragnatech.space",
+      "username": "296828356",
+      "password": "506160917",
+      "status": "online",
+      "description": "Servidor principal com alta estabilidade",
+      "location": "BR",
+      "priority": 1
+    },
+    {
+      "id": 2,
+      "name": "Chanelvs",
+      "dns": "http://chanelvs.click:80",
+      "username": "6042289",
+      "password": "d189Q3172C",
+      "status": "online",
+      "description": "Servidor alternativo com boa qualidade",
+      "location": "BR",
+      "priority": 2
+    },
+    {
+      "id": 3,
+      "name": "NewOneBlack",
+      "dns": "http://newoneblack.site",
+      "username": "111111",
+      "password": "111111",
+      "status": "online",
+      "description": "Servidor backup confiável",
+      "location": "BR",
+      "priority": 3
+    },
+    {
+      "id": 4,
+      "name": "OneNewEasy",
+      "dns": "http://oneneweasy.site",
+      "username": "ven3w3rvkx",
+      "password": "123456",
+      "status": "online",
+      "description": "Servidor adicional com boa performance",
+      "location": "BR",
+      "priority": 4
+    }
+  ],
+  "settings": {
+    "auto_update": true,
+    "update_interval": 86400,
+    "fallback_enabled": true,
+    "max_servers": 10
+  },
+  "announcements": [
+    {
+      "id": 1,
+      "title": "Bem-vindo ao VortexPlay!",
+      "message": "Aproveite nossos 4 servidores disponíveis com atualização automática.",
+      "type": "info",
+      "date": "2025-01-07",
+      "active": true
+    }
+  ]
+}
+

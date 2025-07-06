@@ -1,0 +1,41 @@
+{
+  "version": "1.0.0",
+  "release_date": "2025-01-07",
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2025-01-07",
+      "changes": [
+        "Versão inicial com 4 servidores",
+        "Sistema de atualização online implementado",
+        "Interface otimizada e funcional",
+        "Busca e informações de conta corrigidas",
+        "Player estável com fallback automático"
+      ]
+    }
+  ],
+  "download_url": "https://github.com/SEU_USUARIO/vortexplay-addon/releases/latest/download/plugin.video.VortexPlay.zip",
+  "min_kodi_version": "19.0",
+  "compatible_versions": ["19.0", "19.1", "19.2", "19.3", "19.4", "19.5", "20.0", "20.1", "20.2", "20.3"],
+  "features": [
+    "4 servidores IPTV",
+    "Atualização automática",
+    "Interface em português",
+    "Busca avançada",
+    "Player otimizado",
+    "Informações de conta",
+    "Suporte a canais, filmes e séries"
+  ],
+  "requirements": {
+    "kodi_version": "19.0+",
+    "python_version": "3.8+",
+    "internet_connection": true,
+    "storage_space": "50MB"
+  },
+  "support": {
+    "github_issues": "https://github.com/SEU_USUARIO/vortexplay-addon/issues",
+    "documentation": "https://github.com/SEU_USUARIO/vortexplay-addon/wiki",
+    "community": "https://github.com/SEU_USUARIO/vortexplay-addon/discussions"
+  }
+}
+

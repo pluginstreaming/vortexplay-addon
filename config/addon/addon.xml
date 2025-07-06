@@ -1,0 +1,18 @@
+<?xml version="2.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.VortexPlay" name="[B][COLOR orange]Vortex[/COLOR] [COLOR white]Play[/COLOR][/B]" version="1.0.0" provider-name="[B][COLOR orange]BRAZ FERREIRA[/COLOR][COLOR blue]PluginStreaming[/COLOR][/B]">
+  <extension point="xbmc.python.pluginsource"
+			library="default.py">
+		<provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+	<summary>VortexPlay - Addon futurista para streaming de canais, filmes e séries</summary>
+	<language>pt_BR</language>
+	<description>Addon completo e futurista para assistir canais ao vivo, filmes e séries de TV com interface moderna e intuitiva em português brasileiro. Versão pré-configurada para funcionamento imediato com design futurista.</description>
+	<platform>all</platform>
+	<assets>
+		<icon>icon.png</icon>
+		<fanart>fanart.jpg</fanart>
+	</assets>
+  </extension>
+</addon>
+
